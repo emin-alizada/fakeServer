@@ -60,5 +60,23 @@
       "number_followers": 94532,
       "number_follow": 3
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "description": "More than Friends",
+      "img_url": "https://scontent.fgyd8-1.fna.fbcdn.net/v/t1.0-9/60865930_2247345922023097_1771987615227052032_n.jpg?_nc_cat=105&_nc_ohc=RxvA59eD_8oAQnAemwSwh9I157mxoCjaSCwoteqax6x0bZqQG9f7Db9CQ&_nc_ht=scontent.fgyd8-1.fna&oh=91370c41850a17ce93c5f88bb70fb47d&oe=5E6B3FFF",
+      "like_counter": 200,
+      "location": "Botanical Garden"
+    },
+    {
+      "id": 2,
+      "user_id": 4,
+      "description": "Aaaaaa bu konfetin tam özündən Starbucks a gəlib",
+      "img_url": "https://scontent.fgyd8-1.fna.fbcdn.net/v/t1.0-9/46750662_1568789999931396_3389540747794448384_o.jpg?_nc_cat=107&_nc_ohc=H7J40r6B6mAAQmHEtiHmtUxxTk_kp3p27Sq4HQYsWhXtlBGDlGKZGwhLw&_nc_ht=scontent.fgyd8-1.fna&oh=ea73453c9ae4d8c636d845e803def096&oe=5E7A2431",
+      "like_counter": 666,
+      "location": "Somewhere on Earth"
+    }
   ]
 }
