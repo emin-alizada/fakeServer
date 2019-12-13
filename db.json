@@ -1,8 +1,64 @@
 {
   "users":[
     {
+      "id": 1,
+      "password": "helloWorld",
       "name": "Emin",
-      "surname": "Alizada"
+      "surname": "Alizada",
+      "mail": "emin@emin.com",
+      "username": "e1000alizade",
+      "gender": "M",
+      "birthdate": "09/09/1999",
+      "phone_number": "+994506666666",
+      "description": "Student who suffers a lot, but hopes that it will worth all this pain",
+      "profile_photo": "https://scontent.fgyd8-1.fna.fbcdn.net/v/t1.0-9/60339597_2247345002023189_4127113321167978496_o.jpg?_nc_cat=106&_nc_ohc=imFge-RCrB0AQn6Uzk2zxhu3_IC6iwX36pxAoRS79EdFIiiAUq8WjRRwg&_nc_ht=scontent.fgyd8-1.fna&oh=72f78770030a1c613995a3e9ae5a3e4a&oe=5E82CDAE",
+      "number_followers": 666,
+      "number_follow": 666
+    },
+    {
+      "id": 2,
+      "password": "password",
+      "name": "Ulvi",
+      "surname": "Aslanli",
+      "mail": "ulvi@ulvi.com",
+      "username": "ulviaslanli",
+      "gender": "M",
+      "birthdate": "10/09/1999",
+      "phone_number": "+994503334455",
+      "description": "Monster of Alghorithms",
+      "profile_photo": "https://scontent.fgyd8-1.fna.fbcdn.net/v/t1.0-9/55875595_2102229156492920_7893880260591091712_o.jpg?_nc_cat=100&_nc_ohc=p79WHMs1iTQAQnCYN-Vo-Mc8c2iqw47OkkWnEsCKR5CTfxejEHzlLlQ6A&_nc_ht=scontent.fgyd8-1.fna&oh=0f3cb8a73201f35967b815337856d37d&oe=5E68E882",
+      "number_followers": 333,
+      "number_follow": 56
+    },
+    {
+      "id": 3,
+      "password": "mr.Zulfuqar",
+      "name": "Zulfuqar",
+      "surname": "Asgerzade",
+      "mail": "zulfuqar@zulfuqar.com",
+      "username": "zulfuqar.a",
+      "gender": "M",
+      "birthdate": "11/09/1999",
+      "phone_number": "+994502221133",
+      "description": "Frontend Killer",
+      "profile_photo": "https://elysator.com/wp-content/uploads/blank-profile-picture-973460_1280-e1523978675847.png",
+      "number_followers": 4672,
+      "number_follow": 12
+    },
+    {
+      "id": 4,
+      "password": "1207",
+      "name": "Vagif",
+      "surname": "Quliyev",
+      "mail": "vagif@vagif.com",
+      "username": "va.gif",
+      "gender": "M",
+      "birthdate": "19/11/1999",
+      "phone_number": "+994502002020",
+      "description": "Student who suffers a lot, but hopes that it will worth all this pain",
+      "profile_photo": "https://scontent.fgyd8-1.fna.fbcdn.net/v/t31.0-8/23632434_1265610253582707_7427510248548204538_o.jpg?_nc_cat=110&_nc_ohc=bdocKHHPHGMAQlQn8yNCvUF4GkZkgRJ9-DTEwOBKwN191c-CGppWVHBog&_nc_ht=scontent.fgyd8-1.fna&oh=da39ea623976ff71cb68a3f306740528&oe=5E79B782",
+      "number_followers": 94532,
+      "number_follow": 3
     }
   ]
 }
